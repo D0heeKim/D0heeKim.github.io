@@ -17,13 +17,3 @@ The `files/Dohee_Kim_CV.pdf` included here is your latest uploaded `CV(2).pdf` (
 3. In repository **Settings → Pages**, choose **Deploy from a branch → main → /(root)**.
 4. Open `https://d0heekim.github.io/` and verify the page and CV link. This URL only becomes live after deployment.
 
-## Notes
-
-- Existing degree status is described as **Graduate Researcher**, not M.S., because the formal track conversion is pending.
-- PSB and CVPR Workshop are distinct entries with their accurate statuses; other ongoing research is not represented as published work.
-- The public webpage does not display a phone number.
-- Edit any descriptions that do not precisely reflect your personal contributions.
-
-## New publication
-
-Added KIPS / ACK 2023 (Doha Kim, Dohee Kim, Yeojin Song), including official manuscript/PDF and KoreaScience links.
